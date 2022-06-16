@@ -4,6 +4,7 @@
    - 💻 Linguagens: 
      - Javascript
      - Html
+     - CSS
 
 - 😄 Pronouns: Ele/Dele
 
